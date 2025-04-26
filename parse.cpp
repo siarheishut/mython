@@ -1,6 +1,6 @@
 #include "parse.h"
 #include "statement.h"
-#include "lexer.h" // ƒÓ·‡‚¸ÚÂ ‚ ÔÓÂÍÚ ‚‡¯Û Â‡ÎËÁ‡ˆË˛ ÎÂÍÒË˜ÂÒÍÓ„Ó ‡Ì‡ÎËÁ‡ÚÓ‡ ˇÁ˚Í‡ Mython
+#include "lexer.h" 
 #include "comparators.h"
 
 #include <algorithm>
